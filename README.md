@@ -1,4 +1,4 @@
-# jungyeul's korean language processing
+Korean Language Processing at University of British Columbian (Vancouver, Canada)
 
 
 ## POS tagging 
