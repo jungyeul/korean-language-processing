@@ -1,4 +1,4 @@
-Korean Language Processing at University of British Columbian (Vancouver, Canada)
+# Korean Language Processing at University of British Columbian
 
 
 ## POS tagging 
