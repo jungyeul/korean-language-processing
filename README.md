@@ -1,4 +1,4 @@
-# jungyeul's korean language processing page
+# jungyeul's korean language processing
 
 
 ## POS tagging 
