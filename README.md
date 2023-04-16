@@ -16,6 +16,8 @@ Morpheme-based NER [(under review)]
 ## Unimorph
 Morphological paradigms and segmentation [(coming soon), https://unimorph.github.io]
 
-## SRL and FrameNet
-Morpheme-based SRL and FrameNet parsing [(coming soon)]
+## FrameNet parsing
+Morpheme-based FrameNet parsing [(coming soon)]
 
+## VerbNet
+Korean VerbNet [(coming soon)]
