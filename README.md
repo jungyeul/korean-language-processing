@@ -2,7 +2,7 @@
 
 
 ## 1. POS tagging 
-We obtain 99.88% f1 score for token segmentation and 94.77% accuracy for POS tagging for Sejong tag sets (best published result)(https://github.com/jungyeul/sjmorph) [[park-tyers:2019:LAW](https://aclanthology.org/W19-4022/)]
+We obtain 99.88% f1 score for token segmentation and 94.77% accuracy for POS tagging for Sejong tag sets (best published result): (https://github.com/jungyeul/sjmorph), [[park-tyers:2019:LAW](https://aclanthology.org/W19-4022/)]
 
 ## 2. Syntactic parsing including CCG and TAG parsing
 We train and evaluate the phrase structure Sejong treebank using statistical and neural parsing systems and obtain results up to a 89.18 f1 score (best published result) [[kim-park:2022](https://www.cambridge.org/core/journals/natural-language-engineering/article/abs/note-on-constituent-parsing-for-korean/5ED4C32114B83971B13054A97D4004A9)]
@@ -21,4 +21,4 @@ Morpheme-based NER [[chen-lim-park-2023-nle](https://arxiv.org/abs/2305.06330) (
 Morpheme-based FrameNet parsing [(coming soon)]
 
 ## 4. Moroholgogy 
-Morphological paradigms ([Korean UniMorph](https://github.com/jungyeul/K-UniMorph)) [[jo-etal-2023-kunimorph](https://arxiv.org/abs/2305.06335)]
+Morphological paradigms: K-UniMorph (https://github.com/jungyeul/K-UniMorph), [[jo-etal-2023-kunimorph](https://arxiv.org/abs/2305.06335)]
