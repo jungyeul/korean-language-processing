@@ -21,4 +21,4 @@ Morpheme-based NER [[chen-lim-park-2023-nle](https://arxiv.org/abs/2305.06330) (
 Morpheme-based FrameNet parsing [(coming soon)]
 
 ## 4. Moroholgogy 
-Morphological paradigms (Korean UniMorph) [[jo-etal-2023-kunimorph](https://arxiv.org/abs/2305.06335)]
+Morphological paradigms ([Korean UniMorph](https://github.com/jungyeul/K-UniMorph)) [[jo-etal-2023-kunimorph](https://arxiv.org/abs/2305.06335)]
