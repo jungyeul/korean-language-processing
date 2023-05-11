@@ -22,6 +22,3 @@ Morpheme-based FrameNet parsing [(coming soon)]
 
 ## 4. Moroholgogy 
 Morphological paradigms (Korean UniMorph) [[jo-etal-2023-kunimorph](https://arxiv.org/abs/2305.06335)]
-
-## 5. VerbNet
-Korean VerbNet [(coming soon)]
