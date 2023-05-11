@@ -1,4 +1,4 @@
-# Korean Language Processing at University of British Columbian
+# Korean Language Processing at The University of British Columbian
 
 
 ## 1. POS tagging 
@@ -12,13 +12,13 @@ We train and evaluate the phrase structure Sejong treebank using statistical and
 The proposed morphUD outperforms parsing results for all Korean UD treebanks [[chen-EtAl:2022:COLING](https://aclanthology.org/2022.coling-1.482)]
 
 ### NER
-Morpheme-based NER [(under review)]
+Morpheme-based NER [[chen-lim-park-2023-nle](https://arxiv.org/abs/2305.06330) (under review)]
 
 ### FrameNet parsing
 Morpheme-based FrameNet parsing [(coming soon)]
 
-## 4. Unimorph
-Morphological paradigms and segmentation [(coming soon), https://unimorph.github.io]
+## 4. Moroholgogy 
+Morphological paradigms (Korean UniMorph) [[jo-etal-2023-kunimorph](https://arxiv.org/abs/2305.06335)]
 
 ## 5. VerbNet
 Korean VerbNet [(coming soon)]
